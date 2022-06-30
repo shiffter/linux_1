@@ -3,10 +3,13 @@
 >Скрин выполнения - `cat /etc/issue`.
 
 ## Part 2. Create user
-> Флаг -G добавляет созданного пользователь в группу **adm**.
+- Флаг -G добавляет созданного пользователь в группу **adm**.
+
 ![part_2](screens/2_create_new_user.png)
 
-> Вывод команды `cat /etc/passwd`
+
+- Вывод команды `cat /etc/passwd`
+
 ![part_2](screens/2_new_user.png)
 
 part 3
