@@ -1,4 +1,4 @@
-Part 1. Install OS
+##Part 1. Install OS
 ![part1](screens/1-ubuntu_v.png)
 >Скрин выполнения - 'cat /etc/issue'.
 
