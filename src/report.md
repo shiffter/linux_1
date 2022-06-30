@@ -1,12 +1,13 @@
 ## Part 1. Install OS
-![part1](screens/1.png)
->Скрин выполнения - 'cat /etc/issue'.
+![part_1](screens/1.png)
+>Скрин выполнения - `cat /etc/issue`.
 
+## Part 2. Create user
+- Флаг -G добавляет созданного пользователь в группу **adm**.
+![part_2](screens/2_create_new_user.png)
 
-
-part 2
-link to 2_create_new_user
-link to 2_new_user
+Вывод команды `cat /etc/passwd`
+![part_2](screens/2_new_user.png)
 
 part 3
 	1. Изменил имя хоста в файле /etc/hostname на user-1
