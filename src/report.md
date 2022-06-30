@@ -1,5 +1,5 @@
 ## Part 1. Install OS
-![part1](screens/1-ubuntu_v.png)
+![part1](screens/1.png)
 >Скрин выполнения - 'cat /etc/issue'.
 
 
