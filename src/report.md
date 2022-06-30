@@ -159,7 +159,7 @@
 
 ![part_9](screens/9sys_log.png)
 
-![part_9](9htop_time_host.png)
+![part_9](screens/9htop_time_host.png)
 
 
 ## Part 10. fdisk
